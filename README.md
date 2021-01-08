@@ -38,3 +38,4 @@ $ npm run test:cov
 
 Added test tag
 Added second test tag
+Added third test tag
